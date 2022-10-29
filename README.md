@@ -1,12 +1,22 @@
 # XDOJ-Answers
 
+![GitHub Repo stars](https://img.shields.io/github/stars/ExceptionB/XDOJ-Answers?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/ExceptionB/XDOJ-Answers?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/ExceptionB/XDOJ-Answers)
+
+## 写在前面
+
+这个项目并**不是**为了*给摆烂之人一个抄答案的地方*而成立的，而是为了让那些*完成作业有困难*的同学能了解到正确的解法，或者是让那些*已经完成了作业，想知道还有什么其他的解法*的同学进行交流而成立的。
+
+如果您只是单纯的抄答案，我建议您现在就按下alt+f4。
+
 ## 这是什么
 
 这里是XDOJ的不完整题库及答案
 
 在某个月黑风高的晚上，有两位神必人在交流讨论之后 创建了这个repo
 
-[XDOJ-Answers](https://github.com/ExceptionB/XDOJ-Answers)
+**"[XDOJ-Answers](https://github.com/ExceptionB/XDOJ-Answers)"**
 
 “虽然现在还没几道题，但是只要我们不断努力下去，道路就会不断延伸，所以，不要停下来啊！”
 
@@ -18,7 +28,7 @@ P.S. 欢迎各位一起来补充题库，就算已经有这一题的答案了，
 
 ## 提交PR前需要知道的
 
-为了方便各位同学查找答案，这个仓库有一定的命名规范
+为了方便各位同学查找题解，这个仓库有一定的命名规范
 
 题解命名规则为 `XDOJ/<题号>/<贡献者id>.c` or `XDOJ/<题号>/<贡献者id>.cpp`
 
