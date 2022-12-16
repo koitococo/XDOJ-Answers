@@ -2,17 +2,6 @@
 void *malloc(size_t size);
 void free(void *ptr);
 
-int _strlen(char *str)
-{
-    int len = 0;
-    while (*str != 0)
-    {
-        len++;
-        str++;
-    }
-    return len;
-}
-
 int _indexof(char k, char *str)
 {
     int index = 0;
